@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: My name is Nima khastar
 I know HTML CSS at an average level and I am learning<br>I am also learning UX to better understand the work
 
 
